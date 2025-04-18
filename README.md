@@ -2,6 +2,13 @@
 
 A modern AI-powered bug reporting system that turns user reports into developer-ready tickets.
 
+
+## Otron for Operations
+
+This is one of Otron's tools built to kill off pointless busywork in digital ops. 
+
+We're working to cut down on the routine work that drives up costs, helping create a future of greater abundance.
+
 ## 🚀 Features
 
 - **User-Friendly Reporting**: Simple interface for users to describe bugs in their own language
