@@ -1,0 +1,29 @@
+{
+  "name": "bug-report-ai-frontend",
+  "version": "1.0.0",
+  "description": "AI-powered bug report system frontend",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "lint": "eslint src/**/*.{js,jsx}",
+    "format": "prettier --write src/**/*.{js,jsx,css}"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.8",
+    "@supabase/supabase-js": "^2.33.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.15.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.4",
+    "eslint": "^8.49.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^3.0.3",
+    "vite": "^4.4.9"
+  }
+}
