@@ -55,9 +55,6 @@ The workflow consists of three steps:
 2. AI processes the report and generates a technical analysis
 3. System shows follow-up questions or confirmation before creating a ticket
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [contributing guide](CONTRIBUTING.md) for details.
 
 ## 📄 License
 
